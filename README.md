@@ -6,7 +6,7 @@ Hi there 👋 I'm Erick,
 - [Atari](https://atari.com)
 - [THQ](https://www.thqnordic.com)
 
-🦀 Currently diving into the world of Rust, exploring its intricacies and honing my skills.
+🦀 Currently diving into the world of Rust, exploring its intricacies and honing my skills, I sometimes write about it [here](https://desmodrone.github.io).
 
 🤝 I've recently started collaborating with Amos at [bearcove](https://github.com/bearcove) and it's super exciting.
 
