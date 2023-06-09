@@ -10,7 +10,7 @@ Hi there 👋 I'm Erick
 
 🤝 I've recently started collaborating with Amos at [bearcove](https://github.com/bearcove) and I couldn't be happier about it.
 
-📸 I fuel my creative side with my content agency [apexwins.com](www.apexwins.com). 
+📸 I fuel my creative side with my content agency [apexwins.com](https://www.apexwins.com). 
 
 ⚡️ Fun fact: The inspiration behind my username actually comes from the desmodromic valve timing system utilized in Ducati motorcycles.
 
