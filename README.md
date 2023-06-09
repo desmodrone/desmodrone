@@ -1,4 +1,4 @@
-Hi there 👋 I'm Erick,
+Hi there 👋 I'm Erick
 
 🎮 In a previous life I was game producer  that worked at:
 
