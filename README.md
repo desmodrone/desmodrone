@@ -8,7 +8,7 @@ Hi there 👋 I'm Erick
 
 🦀 Currently diving into the world of Rust, exploring its intricacies and honing my skills, I sometimes write about it [here](https://desmodrone.github.io).
 
-🤝 I've recently started collaborating with Amos at [bearcove](https://github.com/bearcove) and I couldn't be happier about it.
+🤝 I've recently started collaborating with Laurence at [extropy.io](https://github.com/ExtropyIO) and I couldn't be happier about it.
 
 📸 I fuel my creative side with my content agency [apexwins.com](https://www.apexwins.com). 
 
