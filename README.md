@@ -6,7 +6,7 @@ Hi there 👋 I'm Erick
 - [Atari](https://atari.com)
 - [THQ](https://www.thqnordic.com)
 
-🤝 I've recently started working with Laurence at [extropy.io](https://github.com/ExtropyIO) and I couldn't be happier about it.
+🤝 I've recently started working with Laurence at [extropy.io](https://github.com/ExtropyIO) as a blockchain engineer and I couldn't be happier about it.
 
 
 🦀 Diving into the world of Rust, exploring its intricacies and honing my skills, I sometimes write about it [here](https://desmodrone.github.io).
