@@ -14,7 +14,7 @@ Hi there 👋 I'm Erick
 
 📸 I fuel my creative side with my content agency [apexwins.com](https://www.apexwins.com). 
 
-⚡️ Fun fact: The inspiration behind my username actually comes from the desmodromic valve timing system utilized in Ducati motorcycles.
+⚡️ Fun fact: The inspiration behind my username actually comes from the desmodromic valve timing system utilized in Ducati motorcycles. So yea, I love motorycles. 
 
 <!--
 **desmodrone/desmodrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
